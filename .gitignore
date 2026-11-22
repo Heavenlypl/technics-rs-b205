@@ -1,0 +1,12 @@
+/kaseta_radio_s3/*_private.h
+/kaseta_radio_s3/hand_station_font.h
+/build/
+/dist/
+*.bin
+*.elf
+*.map
+*.hex
+*.o
+*.a
+__pycache__/
+.DS_Store
