@@ -1,5 +1,3 @@
-# technics-rs-b205
-
 # Technics RS-B205 Streaming Deck
 
 <img width="4032" height="2268" alt="IMG_6098" src="https://github.com/user-attachments/assets/fa0e871d-bc29-4b63-9f1a-2af0edee31c8" />
