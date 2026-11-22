@@ -47,6 +47,19 @@ The animated reels stop when the stream drops or when you press **STOP** or **PA
 
 The mechanical tape counter motor stops in the same situations as the animated reels. When playback switches sides, the counter continues counting in the same direction.
 
+## Original VU Meter and Line Output
+
+On the Technics RS-B205, a seven-wire ribbon cable connects the VU meter to the main board. The conductors are clearly numbered 1 through 7, so the two audio inputs are easy to identify. Conductor 2 (A2) carries the left channel and conductor 4 (A4) carries the right channel.
+
+Cut those two conductors to disconnect the meter inputs from the main board. Feed the DAC outputs into the cut ends on the VU meter side, using one 10 kΩ potentiometer per channel to adjust the signal level. Connect the DAC ground to the VU meter ground, then adjust each potentiometer to set the meter reading.
+
+Run a separate pair of connections directly from the DAC outputs to the original RCA (Cinch) jacks. Cut the signal traces on the main board close to the jacks to isolate them from the deck’s original audio circuitry. This keeps the line output level independent of the VU meter adjustment.
+
+Once the tape mechanism is removed, a small board with three switches remains connected to the main board by a separate ribbon cable. You can remove this switch board. The three front-panel buttons below the VU meter can be fitted with microswitches and assigned any functions you like in the firmware.
+
+If you provide the VU meter with a suitable supply of its own, you can remove the deck’s main board entirely.
+
+
 ## Adapting it to your setup
 
 **Flashing the firmware alone won’t give you a working internet radio.** I built it around my home setup because I already use Home Assistant and Music Assistant and wanted the deck to work with both.
