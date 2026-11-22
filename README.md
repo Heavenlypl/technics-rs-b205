@@ -24,9 +24,17 @@ The goal was to build a streaming player that keeps the look and feel of a class
 | Microswitches | Six, one under each control key |
 | Perfboards | For mounting components and making connections |
 
+<img width="3250" height="2066" alt="IMG_6079" src="https://github.com/user-attachments/assets/6be150d4-bf43-4a39-b576-7fbe64fb7757" />
+<img width="2619" height="1964" alt="IMG_6065" src="https://github.com/user-attachments/assets/490e0f90-c167-4194-9bb1-f2240a10b7a3" />
+
+
+
 I chose the display because it fills the visible area of the RS-B205 cassette window. If you’re using a different deck, check the window dimensions and the space behind it before choosing a display. The cassette door is fixed shut because it never needs to open during normal use.
 
 A 3D printer is handy for making small parts such as the display frame and mounting brackets. Most can be made using other methods. The tape counter motor pulley is the main part worth printing, though you can also make one by hand.
+
+<img width="4032" height="2268" alt="IMG_6100" src="https://github.com/user-attachments/assets/d756fd61-23a0-4336-a721-24b2c783fd68" />
+
 
 ## Firmware
 
