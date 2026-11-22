@@ -2,6 +2,11 @@
 
 # Technics RS-B205 Streaming Deck
 
+![Uploading IMG_6098.jpeg…]()
+
+
+
+
 This project started with a broken Technics RS-B205 cassette deck. The tape mechanism had failed, but the enclosure, control keys, and original VU meter could be reused. A similar conversion can be done with another cassette deck, even one with a faulty main board. If you want to keep the original VU meter, make sure it still works.
 
 The goal was to build a streaming player that keeps the look and feel of a classic cassette deck while integrating with Home Assistant (HA) and Music Assistant (MA). The project uses all six keys below the cassette door, displays an animated cassette with moving tape and reels, and retains the original VU meter and mechanical tape counter.
