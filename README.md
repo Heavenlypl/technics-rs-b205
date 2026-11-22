@@ -36,7 +36,7 @@ A 3D printer is handy for making small parts such as the display frame and mount
 
 ## Firmware
 
-The **v25 firmware** was written by AI based on the project requirements. The animation simulates a cassette with 30 minutes of tape per side. The reels are white on side A and yellow on side B. As the tape moves from one reel to the other, the reel with less tape spins faster. Fast-forward and rewind speed up the animation in the corresponding direction. **With this hardware setup, the animation runs at 29 fps while decoding FLAC audio.**
+The **v26 firmware** was written by AI based on the project requirements. The animation simulates a cassette with 30 minutes of tape per side. The reels are white on side A and yellow on side B. As the tape moves from one reel to the other, the reel with less tape spins faster. Fast-forward and rewind speed up the animation in the corresponding direction. **With this hardware setup, the animation runs at 29 fps while decoding FLAC audio.**
 
 All six control keys work. Pressing **NEXT** or **PREV** triggers a two-second fast-forward or rewind animation and switches to the next or previous stream configured in Home Assistant. HA sends the station name back to the deck. It appears as a label on the cassette, with the text size adjusted to fit its length.
 
